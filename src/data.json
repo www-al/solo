@@ -1,0 +1,426 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Nebbiolo",
+      "sub": "L.A. Cetto, 2017",
+      "category": 1,
+      "price": 650.00,
+      "description": "13.5% ABV | 14 meses | Valle de Guadalupe\nVino tinto robusto con aromas a frutos negros, té y trufa. Crianza en barrica francesa que aporta notas tostadas y especiadas.",
+      "available": true,
+      "inventory": 100,
+      "img": "./img/1.png"
+    },
+    {
+      "id": 2,
+      "name": "Calixa Blend",
+      "sub": "Monte Xanic, 2018",
+      "category": 1,
+      "price": 720.00,
+      "description": "13.8% ABV | 12 meses | Valle de Guadalupe\nMezcla de Tempranillo, Merlot y Cabernet. Nariz intensa de frutas rojas y madera, taninos suaves y final elegante.",
+      "available": true,
+      "inventory": 95,
+      "img": "./img/2.png"
+    },
+    {
+      "id": 3,
+      "name": "Gran Reserva Malbec",
+      "sub": "Casa Madero, 2016",
+      "category": 1,
+      "price": 850.00,
+      "description": "14.2% ABV | 18 meses | Valle de Parras\nMalbec de color carmesí con aromas a frutos rojos, cacao y tabaco. En boca es sedoso y estructurado.",
+      "available": true,
+      "inventory": 85,
+      "img": "./img/3.png"
+    },
+    {
+      "id": 4,
+      "name": "Syrah",
+      "sub": "Pozo de Luna, 2020",
+      "category": 1,
+      "price": 580.00,
+      "description": "14.0% ABV | 12 meses | San Luis Potosí\nColor violeta intenso, con notas de mora, lavanda y pimienta negra. Final largo y especiado.",
+      "available": true,
+      "inventory": 90,
+      "img": "./img/4.png"
+    },
+    {
+      "id": 5,
+      "name": "Magna Reserva",
+      "sub": "Pedro Domecq, 2019",
+      "category": 1,
+      "price": 650.00,
+      "description": "14.5% ABV | 18 meses | Valle de Guadalupe\nAromas de fruta negra, chocolate amargo y pan tostado. Cuerpo completo con taninos pulidos.",
+      "available": true,
+      "inventory": 75,
+      "img": "./img/5.png"
+    },
+    {
+      "id": 6,
+      "name": "Tempranillo",
+      "sub": "Tres Raíces, 2019",
+      "category": 1,
+      "price": 640.00,
+      "description": "13.9% ABV | 12 meses | Guanajuato\nColor rojo granate, con aromas a ciruelas, vainilla y canela. Equilibrado y con buena persistencia.",
+      "available": true,
+      "inventory": 88,
+      "img": "./img/6.png"
+    },
+    {
+      "id": 7,
+      "name": "Trinergia Alebrino",
+      "sub": "Trinergia, 2022",
+      "category": 1,
+      "price": 400.00,
+      "description": "13.3% ABV | 10 meses | Querétaro\nAromas de frambuesas, cerezas y madera. Ligero, fresco y fácil de beber.",
+      "available": true,
+      "inventory": 105,
+      "img": "./img/7.png"
+    },
+    {
+      "id": 8,
+      "name": "White Tile",
+      "sub": "Santa Elena, 2021",
+      "category": 2,
+      "price": 300.00,
+      "description": "12.8% ABV | 6 meses | Aguascalientes\nVino blanco joven con aromas a frutas tropicales, guayaba y manzana verde. Final refrescante.",
+      "available": true,
+      "inventory": 120,
+      "img": "./img/8.png"
+    },
+    {
+      "id": 9,
+      "name": "Lyra Brut Rosé",
+      "sub": "El Cielo, NV",
+      "category": 3,
+      "price": 950.00,
+      "description": "12.5% ABV | 36 meses en lías | Valle de Guadalupe\nEspumoso rosado con notas a frutos rojos y pan brioche. Burbuja fina y elegante.",
+      "available": true,
+      "inventory": 70,
+      "img": "./img/9.png"
+    },
+    {
+      "id": 10,
+      "name": "Cabernet Rosé",
+      "sub": "Emevé, 2021",
+      "category": 3,
+      "price": 550.00,
+      "description": "13.0% ABV | 3 meses | Valle de Guadalupe\nColor rosa brillante, aromas a fresas, frambuesas y granada. Acidez equilibrada.",
+      "available": true,
+      "inventory": 110,
+      "img": "./img/10.png"
+    },
+    {
+      "id": 11,
+      "name": "Semillón-Sauvignon",
+      "sub": "Dos Búhos, 2022",
+      "category": 2,
+      "price": 600.00,
+      "description": "13.2% ABV | 4 meses | Guanajuato\nVino blanco orgánico con notas de durazno, flor blanca y una marcada mineralidad.",
+      "available": true,
+      "inventory": 100,
+      "img": "./img/11.png"
+    },
+    {
+      "id": 12,
+      "name": "Syrah Reserva",
+      "sub": "Viñedo San Miguel, 2021",
+      "category": 1,
+      "price": 700.00,
+      "description": "14.0% ABV | 12 meses | Guanajuato\nNariz de ciruelas, cacao y madera tostada. Taninos sedosos y final persistente.",
+      "available": true,
+      "inventory": 90,
+      "img": "./img/12.png"
+    },
+    {
+      "id": 13,
+      "name": "Vino de Piedra",
+      "sub": "Casa de Piedra, 2020",
+      "category": 1,
+      "price": 680.00,
+      "description": "14.5% ABV | 14 meses | Ensenada\nBlend de Tempranillo y Cabernet. Terroso, complejo, con gran estructura y notas minerales.",
+      "available": true,
+      "inventory": 85,
+      "img": "./img/13.png"
+    },
+    {
+      "id": 14,
+      "name": "Gran Cote Cabernet",
+      "sub": "Bodegas de Cote, 2019",
+      "category": 1,
+      "price": 750.00,
+      "description": "13.8% ABV | 18 meses | Querétaro\nNotas a frutos negros, especias y tostado. Cuerpo medio-alto y elegante expresión.",
+      "available": true,
+      "inventory": 95,
+      "img": "./img/14.png"
+    },
+    {
+      "id": 15,
+      "name": "Ábora",
+      "sub": "Puerta del Lobo, 2020",
+      "category": 1,
+      "price": 700.00,
+      "description": "13.7% ABV | 12 meses | Querétaro\nFrutal, especiado y fresco, ideal para carnes ligeras o quesos curados.",
+      "available": true,
+      "inventory": 80,
+      "img": "./img/15.png"
+    },
+    {
+      "id": 16,
+      "name": "Gran Reserva",
+      "sub": "Pinesque, 2020",
+      "category": 1,
+      "price": 800.00,
+      "description": "14.4% ABV | 16 meses | Chihuahua\nColor profundo, aromas a frutos maduros, especias dulces y chocolate amargo.",
+      "available": true,
+      "inventory": 70,
+      "img": "./img/16.png"
+    },
+    {
+      "id": 17,
+      "name": "Merlot",
+      "sub": "Pozo de Luna, 2017",
+      "category": 1,
+      "price": 650.00,
+      "description": "13.9% ABV | 12 meses | San Luis Potosí\nFrutal y especiado, con taninos redondos y notas a cereza, vainilla y café.",
+      "available": true,
+      "inventory": 95,
+      "img": "./img/17.png"
+    },
+    {
+      "id": 18,
+      "name": "Chardonnay",
+      "sub": "Casa Madero, 2021",
+      "category": 2,
+      "price": 700.00,
+      "description": "13.5% ABV | 6 meses | Valle de Parras\nNotas cítricas, piña y manzana verde, con toques de mantequilla y barrica sutil.",
+      "available": true,
+      "inventory": 100,
+      "img": "./img/18.png"
+    } ,
+    {
+      "id": 19,
+      "name": "Mistico",
+      "sub": "Bichi Wines, 2019",
+      "category": 1,
+      "price": 725.00,
+      "description": "12.5% ABV | 3 meses | Tecate, Baja California\nVino tinto fresco y complejo con notas de frutas rojas, especias y mineralidad. Fermentado en tinajas de concreto, sin filtrar ni clarificar.",
+      "available": true,
+      "inventory": 50,
+      "img": "./img/1.png"
+    },
+    {
+      "id": 20,
+      "name": "Listán",
+      "sub": "Bichi Wines, 2021",
+      "category": 1,
+      "price": 765.00,
+      "description": "13.0% ABV | 6 meses | Tecate, Baja California\nElaborado con uva Misión de viñas viejas. Notas de cereza, hierbas y un toque terroso. Sin sulfitos añadidos.",
+      "available": true,
+      "inventory": 40,
+      "img": "./img/2.png"
+    },
+    {
+      "id": 21,
+      "name": "Rosa",
+      "sub": "Bichi Wines, 2022",
+      "category": 3,
+      "price": 860.00,
+      "description": "12.0% ABV | 4 meses | Tecate, Baja California\nRosado natural con aromas de fresa, sandía y un toque floral. Fermentación espontánea y sin filtración.",
+      "available": true,
+      "inventory": 60,
+      "img": "./img/3.png"
+    },
+    {
+      "id": 22,
+      "name": "Atardecer Tornasol",
+      "sub": "Tierra de Peña, 2022",
+      "category": 1,
+      "price": 720.00,
+      "description": "13.5% ABV | 6 meses | Querétaro\nBlend de Syrah y Tempranillo con notas de frutos negros, especias y un final largo. Agricultura biodinámica.",
+      "available": true,
+      "inventory": 30,
+      "img": "./img/4.png"
+    },
+    {
+      "id": 23,
+      "name": "Pet-Nat Flow",
+      "sub": "Tierra de Peña, 2022",
+      "category": 5,
+      "price": 790.00,
+      "description": "12.0% ABV | 3 meses | Querétaro\nEspumoso natural con burbuja fina, notas cítricas y florales. Sin sulfitos añadidos, fermentación en botella.",
+      "available": true,
+      "inventory": 25,
+      "img": "./img/5.png"
+    },
+    {
+      "id": 24,
+      "name": "La Buena Vida",
+      "sub": "Tierra de Peña, 2021",
+      "category": 1,
+      "price": 850.00,
+      "description": "14.0% ABV | 12 meses | Querétaro\nCabernet Sauvignon con notas de ciruela, cacao y taninos suaves. Cultivo orgánico y sin intervención química.",
+      "available": true,
+      "inventory": 35,
+      "img": "./img/6.png"
+    },
+    {
+      "id": 25,
+      "name": "Tierra Viva",
+      "sub": "Tierra de Peña, 2021",
+      "category": 1,
+      "price": 850.00,
+      "description": "13.8% ABV | 10 meses | Querétaro\nBlend de Merlot y Tempranillo con aromas de frutos rojos, especias y un toque terroso. Agricultura biodinámica.",
+      "available": true,
+      "inventory": 40,
+      "img": "./img/7.png"
+    },
+    {
+      "id": 26,
+      "name": "Naranja Natural",
+      "sub": "Vinos Barrigones, 2022",
+      "category": 4,
+      "price": 500.00,
+      "description": "11.0% ABV | 5 meses | Querétaro\nVino naranja refrescante con buena acidez y notas de toronja. Fermentación natural y sin agroquímicos.",
+      "available": true,
+      "inventory": 45,
+      "img": "./img/8.png"
+    },
+    {
+      "id": 27,
+      "name": "Rosado Natural",
+      "sub": "Vinos Barrigones, 2022",
+      "category": 3,
+      "price": 500.00,
+      "description": "11.5% ABV | 4 meses | Querétaro\nRosado de Garnacha y Tempranillo con cuerpo medio, notas de frutas rojas y final refrescante.",
+      "available": true,
+      "inventory": 50,
+      "img": "./img/9.png"
+    },
+    {
+      "id": 28,
+      "name": "Blanco Natural",
+      "sub": "Vinos Barrigones, 2022",
+      "category": 2,
+      "price": 500.00,
+      "description": "11.0% ABV | 3 meses | Querétaro\nBlend de Xarel-lo y Macabeo con notas de manzana verde, cítricos y un toque mineral. Sin intervención química.",
+      "available": true,
+      "inventory": 55,
+      "img": "./img/10.png"
+    },
+    {
+      "id": 29,
+      "name": "Pilón Rosado",
+      "sub": "Vinisterra, 2022",
+      "category": 3,
+      "price": 600.00,
+      "description": "12.5% ABV | 5 meses | Santo Tomás, Baja California\nRosado de Grenache con fermentación espontánea, sin filtración. Notas de frutas rojas y acidez equilibrada.",
+      "available": true,
+      "inventory": 40,
+      "img": "./img/11.png"
+    },
+    {
+      "id": 30,
+      "name": "Pilón Blanco",
+      "sub": "Vinisterra, 2022",
+      "category": 2,
+      "price": 600.00,
+      "description": "12.0% ABV | 4 meses | Santo Tomás, Baja California\nBlanco de Cinsault con notas cítricas, florales y un toque salino. Fermentación natural y sin filtración.",
+      "available": true,
+      "inventory": 35,
+      "img": "./img/12.png"
+    },
+    {
+      "id": 31,
+      "name": "Pet-Mex",
+      "sub": "Bichi Wines, 2021",
+      "category": 5,
+      "price": 800.00,
+      "description": "12.0% ABV | 3 meses | Tecate, Baja California\nEspumoso rosado natural con burbuja fina, notas de frutas rojas y un toque herbal. Fermentación en botella.",
+      "available": true,
+      "inventory": 30,
+      "img": "./img/13.png"
+    },
+    {
+      "id": 32,
+      "name": "Ambar",
+      "sub": "Vena Cava, 2021",
+      "category": 4,
+      "price": 700.00,
+      "description": "13.0% ABV | 6 meses | Valle de Guadalupe\nVino naranja con notas de frutas tropicales, especias y un final largo. Fermentación con pieles y sin filtración.",
+      "available": true,
+      "inventory": 25,
+      "img": "./img/14.png"
+    },
+    {
+      "id": 33,
+      "name": "Chardonnay/Vermentino",
+      "sub": "Mogoni, 2021",
+      "category": 2,
+      "price": 650.00,
+      "description": "13.5% ABV | 5 meses | Valle de Guadalupe\nBlend blanco con notas cítricas, florales y un toque mineral. Fermentación espontánea y sin sulfitos añadidos.",
+      "available": true,
+      "inventory": 30,
+      "img": "./img/15.png"
+    },
+    {
+      "id": 34,
+      "name": "Mission",
+      "sub": "La Casa Vieja, 2020",
+      "category": 1,
+      "price": 700.00,
+      "description": "13.0% ABV | 8 meses | Valle de Guadalupe\nVino tinto de uva Misión con notas de frutos rojos, especias y un toque terroso. Fermentación natural y sin filtración.",
+      "available": true,
+      "inventory": 20,
+      "img": "./img/16.png"
+    },
+    {
+      "id": 35,
+      "name": "Palomino",
+      "sub": "La Casa Vieja, 2020",
+      "category": 2,
+      "price": 700.00,
+      "description": "12.5% ABV | 6 meses | Valle de Guadalupe\nVino blanco con notas de manzana, cítricos y un toque salino. Fermentación espontánea y sin sulfitos añadidos.",
+      "available": true,
+      "inventory": 20,
+      "img": "./img/17.png"
+    },
+    {
+      "id": 36,
+      "name": "Grignolino Rosé",
+      "sub": "Tresomm, 2020",
+      "category": 3,
+      "price": 750.00,
+      "description": "12.0% ABV | 4 meses | Valle de Guadalupe\nRosado de Grignolino con notas de fresa, cereza y un toque floral. Fermentación natural y sin filtración.",
+      "available": true,
+      "inventory": 25,
+      "img": "./img/18.png"
+    }
+  ] ,
+  "categories": [
+    {
+      "id": 1,
+      "name": "LO NUEVO"
+    },
+    {
+      "id": 2,
+      "name": "BLANCO"
+    },
+    {
+      "id": 3,
+      "name": "TINTO"
+    },
+    {
+      "id": 4,
+      "name": "ROSADO"
+    },
+    {
+      "id": 5,
+      "name": "NARANJA"
+    },
+    {
+      "id": 6,
+      "name": "ESPUMOSO"
+    }
+  ]
+}
